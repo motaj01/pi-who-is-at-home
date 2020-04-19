@@ -1,0 +1,4 @@
+1	Home	Sagemcom Router	2F:sd:sd:sd:ff:f6	2020-04-19|17:19
+2	Home	Sagemcom Shared Services	6i:ff:ff:ff:ff:ff	2020-04-19|17:19
+3	John	devolo	23:sd:sd:ff:ff:fd	2020-04-19|17:19
+

@@ -1,0 +1,7 @@
+192.168.1.1	2f:ff:ff:ff:ff:16	Sagemcom Broadband SAS
+192.168.1.10	6d:df:df:ff:ff:ff	(Unknown)
+192.168.1.12	3d:ff:ff:ff:ff:cd	devolo AG
+192.168.1.17	df:ff:ff:ff:ff:0f	(Unknown)
+192.168.1.13	af:ff:ff:ff:ff:bc	Intel Corporate
+192.168.1.26	04:ff:ff:ff:ff:86	(Unknown)
+192.168.1.16	ac:ff:ff:ff:ff:52	(Unknown)
