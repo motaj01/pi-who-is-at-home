@@ -1,5 +1,7 @@
 # pi-who-is-at-home
-C++ program that checks local network and warn when new device is detected
+C++ program that checks local network and warn when new device is detected.
 This program was created and tested on a Raspberry Pi 3. 
 It check if your network have new devices and if found new devices sends an email to you.
-This application uses external third party applications such as arp-scan, MSMTP and mailutils
+This application uses external third party applications such as arp-scan, MSMTP and mailutils.
+Check the files for more information.
+Please feel free to contact me if any questions or doubts.
